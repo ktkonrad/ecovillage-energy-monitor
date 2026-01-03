@@ -1,0 +1,5 @@
+{
+  "name": "Eco-Village Energy Monitor",
+  "description": "A community dashboard for tracking and visualizing energy consumption across dwellings using Emporia smart meter data, featuring AI-powered usage insights.",
+  "requestFramePermissions": []
+}
